@@ -11,6 +11,7 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/html-5.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/css3.png"/>
 <img align="left" src="https://img.icons8.com/metro/26/000000/mysql.png"/>
+<img align="left" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 
 
