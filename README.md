@@ -14,7 +14,7 @@
 <img align="left" src="https://img.icons8.com/metro/32/000000/mysql.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/mongodb.png"/>
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>  
-<img align="left" src="https://img.icons8.com/clouds/100/000000/console.png"/>
+<img align="left" src="https://img.icons8.com/clouds/32/000000/console.png"/>
 <p>&nbsp</p>
 
 ### Connect with me:
